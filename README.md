@@ -57,7 +57,3 @@ This collection serves as both a showcase and learning resource for Pygame devel
 ## License
 Projects are available under various open-source licenses (primarily MIT). Check individual project READMEs for specific licensing information.
 
-Note: Some folder names suggest additional projects that may need further documentation. Would you like me to:
-1. Propose descriptions for the undocumented folders?
-2. Create more detailed READMEs for specific projects?
-3. Organize the projects into categories?
